@@ -1,4 +1,4 @@
-# Mini String Library (`mini_string.h`)
+# String Library (`string.h`)
 
 A beginner-friendly C programming project to recreate functions from the standard C `string.h` library from scratch.
 
@@ -38,9 +38,9 @@ The goal of this project is to understand how strings work internally in C, espe
 ## 📂 Project Structure
 
 ```text
-mini-string-library/
+string-library/
 │
-├── mini_string.h
+├── string.h
 ├── main.c
 ├── README.md
 └── tests/
