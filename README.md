@@ -17,7 +17,7 @@ The goal of this project is to understand how strings work internally in C, espe
 | Function | Description | Status |
 |---|---|---|
 | `my_strlen()` | Calculates the length of a string | ✅ Completed |
-| `my_strcpy()` | Copies one string into another | ⬜ Planned |
+| `my_strcpy()` | Copies one string into another | ✅ completed |
 | `my_strcat()` | Concatenates two strings | ⬜ Planned |
 | `my_strcmp()` | Compares two strings | ⬜ Planned |
 | `my_strchr()` | Finds a character in a string | ⬜ Planned |
